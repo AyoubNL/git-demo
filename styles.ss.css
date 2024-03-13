@@ -24,3 +24,7 @@ body {
     background-color: var(--background-yellow);
     padding: var(--standard-distance-medium) 0 0 0;
 }
+
+a {
+    font-size: 16px;
+}
